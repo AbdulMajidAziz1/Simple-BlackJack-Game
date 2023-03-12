@@ -1,0 +1,19 @@
+
+#div1{
+    background-image: url("Road.jpeg");
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 600px;
+    text-align: center;
+}
+button{
+    background-color: brown;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
